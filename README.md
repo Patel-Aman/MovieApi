@@ -13,6 +13,7 @@ This is a RESTful API built using Java 11 and Spring Boot 2. It provides endpoin
 
 ```shell
 git clone https://github.com/your-username/movie-api.git
+```
 
 open in intelliJ idea
 
